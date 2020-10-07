@@ -5,7 +5,7 @@
 🤔 So... I don't know what brought you here but, since you're already here, might as well get to know a little bit about me.
 
 
-#### I'm a youtuber, a student and a tech enthusiast who is in the process of spreading what little knowledge he has. 
+#### I'm a youtuber, a student and a tech enthusiast who is in the process of spreading what little knowledge I have. 
 
 I mainly focus on teaching programming languages and it's concepts in the most easy & simplest way possbile. Afterall
 
