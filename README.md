@@ -53,7 +53,7 @@ I mainly focus on teaching programming languages and it's concepts in the most e
 <a href="https://www.linkedin.com/in/kamal-teja-157111168/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
 </div>
 
-### Time for some stats
+[//]: # ### Time for some stats
 
-![](https://github-readme-stats.vercel.app/api?username=kamaltejag&show_icons=true&theme=dracula)
+[//]: # ![](https://github-readme-stats.vercel.app/api?username=kamaltejag&show_icons=true&theme=dracula)
 
