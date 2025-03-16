@@ -5,13 +5,11 @@
 🤔 So... I don't know what brought you here but, since you're already here, might as well get to know a little bit about me.
 
 
-#### I'm a developer, a youtuber and a tech enthusiast who is in the process of spreading what little knowledge he has. 
+#### I'm a developer, a YouTuber, and a tech enthusiast who is in the process of spreading what little knowledge he has. 
 
-I mainly focus on teaching programming languages and it's concepts in the most easiest way possbile. Afterall...
+I mainly focus on teaching programming languages and their concepts in the most easiest way possible. Afterall...
 
-> “If you can't explain it to a six year old, you don't understand it yourself.” - Albert Einstein
-
-### Things that I know
+> “If you can't explain it to a six-year-old, you don't understand it yourself.” - Albert Einstein
 
 #### Languages / Frameworks / Tools
 
