@@ -19,7 +19,4 @@ I used to run Packetcode, a YouTube channel where I taught programming languages
 
 ### Want to stay connected?
 
-<div>
-    <a href="https://www.linkedin.com/in/kamaltejag/"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-    <a href="https://youtube.com/packetcode"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/></a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/kamaltejag/) · [YouTube](https://youtube.com/packetcode)
